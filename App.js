@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FlatList, StyleSheet, SafeAreaView, Text, View, TextInput, Button } from "react-native";
+import { FlatList, StyleSheet, Text, View, TextInput, Button } from "react-native";
 
 export default function App() {
   const [num1, setNumber1] = useState("");
